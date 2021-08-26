@@ -20,7 +20,7 @@ h1 {
 }
 
 img {
-    float: left;
+  float: left;
   width: 242px;
   padding: 5px;
   background-color: darkblue;
@@ -31,15 +31,13 @@ article {
 }
 
 section {
- 
   background-color: rgba(5, 0, 0, 0.055);
   height: 355px;
-  margin-top: 155px
-  
+  margin-top: 155px;
 }
 
 h2 {
-      font-family: monospace;
+  font-family: monospace;
   color: rgb(1, 1, 90);
   text-align: center;
   padding-top: 30px;
@@ -57,16 +55,15 @@ h2 {
 }
 
 nav {
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: Georgia, Times New Roman, Times, serif;
   text-align: center;
-  font-weight: bold;
+  font-weight: 600;
   margin-left: 90%;
   margin-right: 5%;
   background-color: midnightblue;
-  border-radius: 25px; 
-  padding: 15px; 
-  cursor: pointer; 
-  border: none; 
+  border-radius: 25px;
+  padding: 15px;
+  border: none;
   font-size: 16px;
 }
 
@@ -79,15 +76,3 @@ a {
   color: blanchedalmond;
   background: rgb(1, 92, 1);
 }
-
-
-
-
-
-
-
-
-
-
-
-
