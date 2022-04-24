@@ -12,7 +12,7 @@ git@github.com:Ivan-Mastrangelo/Lessons-learned-project.git
 ```
 Entrar no diretório criado:
 ```
-  cd react-solar-system
+  cd Lessons-learned-project
   ```
 Instalar as dependências do projeto:
 ```
