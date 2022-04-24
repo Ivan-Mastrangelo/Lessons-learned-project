@@ -18,4 +18,4 @@ Instalar as dependências do projeto:
 ```
   npm install
   ```
-E rodá-lo em seu browser, caso utilize o vscode, pressione Go Live.
+E rodá-lo em seu browser, caso utilize o VScode, clique em Go Live.
